@@ -1,3 +1,7 @@
+# Sbn
+
+[![Build Status](https://travis-ci.com/deustheorem/sbn.svg?branch=master)](https://github.com/deustheorem/sbn)
+
 SBN was created to facilitate a desire to speed up the process of connecting to
 AWS instances with SSH. But it can solve a variety of issues related to getting
 information from AWS about EC2 instances.
